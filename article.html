@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<header>
+        <title>Craig Universe Manual</title>
+</header>
+<body>
+<script>
+        const [DOMAIN_AND_PATH, QUERY_STRING] = window.location.href.split("?");
+        const QUERY_LIST = QUERY_STRING.split("&");
+        console.log(DOMAIN_AND_PATH);
+        console.log(QUERY_STRING);
+        console.log(QUERY_LIST);
+        var [name, value] = QUERY_LIST[0].split("=");
+        console.log(name);
+        console.log(value);
+
+</script>
+</body>
+</html>
