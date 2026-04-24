@@ -4,16 +4,11 @@
         <title>Craig Universe Manual</title>
 </header>
 <body>
-<script>
-        const [DOMAIN_AND_PATH, QUERY_STRING] = window.location.href.split("?");
-        const QUERY_LIST = QUERY_STRING.split("&");
-        console.log(DOMAIN_AND_PATH);
-        console.log(QUERY_STRING);
-        console.log(QUERY_LIST);
-        var [name, value] = QUERY_LIST[0].split("=");
-        console.log(name);
-        console.log(value);
-
-</script>
+    <h1 id="article-head">Loading head...</h1>
+    <div id="article-body">
+        <div id="article-sections">Loading body...</div>
+        <div id="article-seealso">Loading see also...</div>
+    </div>
+    <script src="Article.js"></script>
 </body>
 </html>

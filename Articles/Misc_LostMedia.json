@@ -1,0 +1,19 @@
+{
+    "title" : "Lost Media",
+    "opener" : [
+        "This is where the \"lost media\" is held. Lost media can either be a rumour without an origin or a gap in the lore."
+    ],
+    "sections" : [
+        {
+            "header" : "V1 movie night",
+            "contents" : [
+                "On December 2025, lore about V1 and his friends was being documented. Unfortunately, the documentation wasn't finished. What we have suggests that V1 killed Becky and Talaylay. Below is the unfinished excerpt about the story:",
+                "<i>\"V1 was brought to watch Friday the Craig-teenth Beanie Edition by they're friends, Talaylay and Becky. V1 does not like this movie and stormed off to \"buy some 6 7 Looks Maxilizers\" when, in reality, they're setting up bait to kill the friends.\"</i>",
+                "<i>\"A loud explosion was set off in the front yard. Becky went to [unfinished]\"</i>"
+            ]
+        }
+    ],
+    "see_also" : [
+        {"link" : "", "text" : ""}
+    ]
+}

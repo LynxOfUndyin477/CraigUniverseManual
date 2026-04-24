@@ -1,0 +1,15 @@
+    Canada: "Please divert 69 degrees to the North to avoid a collision."
+
+    Saskatoon: "Unable. Recommend you divert your course 69 degrees south to avoid collision."
+
+    Canada: "No you."
+
+    Saskatoon: "Unable. This is on behalf of the captain of the U.S.S. Pen Is. Please divert your couse 69 degrees south."
+
+    Canada: "We're unable and you should divert."
+
+    Saskatoon: "This is captain Saskatoon of the U.S.S. Pen Is. The second largest ship of the United States Navel Fleet. We have in tow three destroyers, three cruisers, numerous suppor vessels, and enough ordinance to level Toronto. This is no longer a recommendation, this is a demand. Change course 69 degrees north immediately. Yeey. Failure to do so will result in countermeasures being taken, like solitary confinement with a talking egg. And that will result in an act of war. Do you understand?"
+
+U.S.S. Pen Is crashes into land
+
+    Cruiser: "Lol"

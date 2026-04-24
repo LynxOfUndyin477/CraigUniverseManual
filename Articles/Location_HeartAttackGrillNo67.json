@@ -1,0 +1,27 @@
+{
+    "title" : "Heart Attack Grill No. 67",
+    "opener" : [],
+    "sections" : [
+        {
+            "header" : "Menu",
+            "contents" : [
+                
+            ],
+            "subsections" : [
+                {
+                    "header" : "Main",
+                    "contents" : [
+                        "<b>Horse ass</b>",
+                        "<b>Tokxi burrito burgur</b> - Optional: {a=Product_CraigSauce}Craig sauce{a}, deep-fried, extra batter, steak grease"
+                    ]
+                },
+                {
+                    "header" : "Drinks",
+                    "contents" : [
+                        "<b>Dr Pepper</b>"
+                    ]
+                }
+            ]
+        }
+    ]
+}
