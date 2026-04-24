@@ -8,233 +8,233 @@
             "header" : "Consumable",
             "contents" : [
                 [
-                    ["Name", "Creator", "Description"],
+                    ["Name", "Creator", "date", "Description"],
                     [
-                        "{a=Product_CraigCumJam}Craig Cum Jam{a}", "Craig",
+                        "{a=Product_CraigCumJam}Craig Cum Jam{a}", "Craig", "",
                         "Craig's flagship flavour of jam. Made with a very secret substance that is of a private matter."
                     ],
                     [
-                        "{a=Product_Crilk}Crilk{a}", "Craig",
+                        "{a=Product_Crilk}Crilk{a}", "Craig", "",
                         "Trademarked milk sourced from craig's experimental lab-grown udders."
                     ],
                     [
-                        "{a=Product_Crilk}Aheko's Schmeat{a}", "Craig and Aheko",
+                        "{a=Product_Crilk}Aheko's Schmeat{a}", "Craig and Aheko", "",
                         "A hotdog made with stray cat meat and pickled onions."
                     ],
                     [
-                        "{a=Product_CraigMaidSoda}Craig Maid Soda{a}", "Craig",
+                        "{a=Product_CraigMaidSoda}Craig Maid Soda{a}", "Craig", "",
                         "A cool beverage made with the blood, sweat, and tears of maids."
                     ],
                     [
-                        "{a=Product_CatPee}Cat Pee{a}", "Craig",
+                        "{a=Product_CatPee}Cat Pee{a}", "Craig", "",
                         "Just straight up cat urine. Nothing more, nothing less."
                     ],
                     [
-                        "{a=Product_YummyYumTummyTumTumSodi}Yummy Yum Tummy Tum Tum Sodi{a}", "Craig",
+                        "{a=Product_YummyYumTummyTumTumSodi}Yummy Yum Tummy Tum Tum Sodi{a}", "Craig", "",
                         "Regular soda with a reduced fizziness."
                     ],
                     [
-                        "{a=Product_OneBillionDollarPopcorn}One Billion Dollar Popcorn{a}", "Craig",
+                        "{a=Product_OneBillionDollarPopcorn}One Billion Dollar Popcorn{a}", "Craig", "",
                         "Toffee popcore coated in a layer of edible gold."
                     ],
                     [
-                        "{a=Product_NovaSaggyBreasts}Nova's Saggy Breasts{a}", "Craig",
+                        "{a=Product_NovaSaggyBreasts}Nova's Saggy Breasts{a}", "Craig", "",
                         "Breast meat sourced from free-range {a=Person_NovaDante}Nova clones{a} and then injected with botox."
                     ],
                     [
-                        "{a=Product_CheapyMcCheapscapeMeal}Cheapy McCheapscape Meal{a}", "Craig",
+                        "{a=Product_CheapyMcCheapscapeMeal}Cheapy McCheapscape Meal{a}", "Craig", "",
                         "A budget meal that consists of some ketchup between two burger buns."
                     ],
                     [
-                        "{a=Product_CraigFizzyJizzySoda}Craig's Fizzy Jizzy Soda{a}", "Craig",
+                        "{a=Product_CraigFizzyJizzySoda}Craig's Fizzy Jizzy Soda{a}", "Craig", "",
                         "Purple soda flavoured with a carbonated variant of Craig's secret ingredient and topped with Craig's exclusive purple glop-cream."
                     ],
                     [
-                        "{a=Product_MushroomFemboyNovaGummies}Mushroom Femboy Nova Gummies{a}", "Nova",
+                        "{a=Product_MushroomFemboyNovaGummies}Mushroom Femboy Nova Gummies{a}", "Nova", "",
                         "A little, pink sweet in the shape of Nova's head. Contains ground-up magic mushrooms, supplied by {a=Location_TokxiHerbalRemedies}Tokxi's Herbal's Remedies{a}."
                     ],
                     [
-                        "{a=Product_FlavoredBurstingBurgers}Flavored Bursting Burgers{a}", "Toast",
+                        "{a=Product_FlavoredBurstingBurgers}Flavored Bursting Burgers{a}", "Toast", "",
                         ""
                     ],
                     [
-                        "{a=Product_MegaPizza}Mega Pizza{a}", "Toast",
+                        "{a=Product_MegaPizza}Mega Pizza{a}", "Toast", "",
                         ""
                     ],
                     [
-                        "{a=Product_TheSalmonAssDetrout}The Salmon Ass De-trout{a}", "Toast",
+                        "{a=Product_TheSalmonAssDetrout}The Salmon Ass De-trout{a}", "Toast", "",
                         ""
                     ],
                     [
-                        "{a=Product_DeepFriedPlacenta}Deep-Fried Placenta{a}", "Greasy Space Chicken",
+                        "{a=Product_DeepFriedPlacenta}Deep-Fried Placenta{a}", "Greasy Space Chicken", "",
                         ""
                     ],
                     [
-                        "{a=Product_FishHeads}Fish Heads{a}", "Greasy Space Chicken",
+                        "{a=Product_FishHeads}Fish Heads{a}", "Greasy Space Chicken", "",
                         ""
                     ],
                     [
-                        "{a=Product_Poppetsicle}Poppet-sicle{a}", "Poppet",
+                        "{a=Product_Poppetsicle}Poppet-sicle{a}", "Poppet", "",
                         "Creamy, grape flavoured popsicle depicting Miss Poppet."
                     ],
                     [
-                        "{a=Product_ThunderbirdRotisserie}Thunderbird Rotisserie{a}", "Thunderbird",
+                        "{a=Product_ThunderbirdRotisserie}Thunderbird Rotisserie{a}", "Thunderbird", "",
                         "A whole bird slow-roasted, until it turns \"stormcloud dark\" and crackles."
                     ],
                     [
-                        "{a=Product_SpaceChickenWings}Space Chicken Wings{a}", "Ritikl",
+                        "{a=Product_SpaceChickenWings}Space Chicken Wings{a}", "Ritikl", "",
                         "Chicken wings covered in an interstellar glaze and meteorite dust."
                     ],
                     [
-                        "{a=Product_PuddingsPudding}Pudding's Pudding{a}", "Pudding",
+                        "{a=Product_PuddingsPudding}Pudding's Pudding{a}", "Pudding", "",
                         "A flan covered in frog spawn and topped with a frog's leg."
                     ],
                     [
-                        "{a=Product_SaltyToast}Salty Toast{a}", "Toast",
+                        "{a=Product_SaltyToast}Salty Toast{a}", "Toast", "",
                         "A slice of toast with a thick coating of salt."
                     ],
                     [
-                        "{a=Product_CraigPurplePenisMeat}Craig Purple Penis Meat{a}", "Craig",
+                        "{a=Product_CraigPurplePenisMeat}Craig Purple Penis Meat{a}", "Craig", "",
                         "The harvested meat from the {a=Species_CraigPurplePenis}Craig Purple Penis{a}, after the end of their rampaing in {a=Location_Craigville}Craigville{a}."
                     ],
                     [
-                        "{a=Product_CraigCreamyJizzBeer}Craig's Creamy Jizz Beer{a}", "Craig",
+                        "{a=Product_CraigCreamyJizzBeer}Craig's Creamy Jizz Beer{a}", "Craig", "",
                         "A mix of Craig Cum Jam and Mow Mow's Mimosa, put on ice and topped with a pinch of mint."
                     ],
                     [
-                        "{a=Product_Schmeatzies}Schmeatzies{a}", "Aheko",
+                        "{a=Product_Schmeatzies}Schmeatzies{a}", "Aheko", "",
                         ""
                     ],
                     [
-                        "{a=Product_CraigFemboyMilk}Craig's Femboy Milk{a}", "Craig",
+                        "{a=Product_CraigFemboyMilk}Craig's Femboy Milk{a}", "Craig", "",
                         "Milk sourced from volenteer femboys."
                     ],
                     [
-                        "{a=Product_CraigCiderJam}Craig's Cider Jam{a}", "Craig",
+                        "{a=Product_CraigCiderJam}Craig's Cider Jam{a}", "Craig", "",
                         "A cider mixed with Craig's Femboy Milk and a hint of mint."
                     ],
                     [
-                        "{a=Product_CraigBerryCherryBananaSoup}Craig's Berry Cherry Banana Soup{a}", "Craig",
+                        "{a=Product_CraigBerryCherryBananaSoup}Craig's Berry Cherry Banana Soup{a}", "Craig", "",
                         "Banana soup with some squeezed berries and minced cherries mixed in."
                     ],
                     [
-                        "{a=Product_ChromeNut}Chrome-nut{a}", "Toast",
+                        "{a=Product_ChromeNut}Chrome-nut{a}", "Toast", "",
                         "A jam doughnut fully coated in chrome."
                     ],
                     [
-                        "{a=Product_CraigJizzBitsNShits}Craig's Jizz Bits N' Shits{a}", "Craig",
+                        "{a=Product_CraigJizzBitsNShits}Craig's Jizz Bits N' Shits{a}", "Craig", "",
                         "Small chocolate balls filled with and covered in a strange goo from Craig's room."
                     ],
                     [
-                        "{a=Product_NovaNuts}Nova Nuts{a}", "Nova",
+                        "{a=Product_NovaNuts}Nova Nuts{a}", "Nova", "",
                         ""
                     ],
                     [
-                        "{a=Product_NovaHomemadeMilk}Nova's Homemade Milk{a}", "Nova",
+                        "{a=Product_NovaHomemadeMilk}Nova's Homemade Milk{a}", "Nova", "",
                         ""
                     ],
                     [
-                        "{a=Product_MrsMowPeachGobbler}Mrs Mow's Peach Gobbler{a}", "Mrs Mow",
+                        "{a=Product_MrsMowPeachGobbler}Mrs Mow's Peach Gobbler{a}", "Mrs Mow", "",
                         ""
                     ],
                     [
-                        "{a=Product_NovaCreamyMilkieJellos}Nova's Creamy Milkie Jellos{a}", "Nova",
+                        "{a=Product_NovaCreamyMilkieJellos}Nova's Creamy Milkie Jellos{a}", "Nova", "",
                         ""
                     ],
                     [
-                        "{a=Product_NovaSweetBuns}Nova's Sweet Buns{a}", "Nova",
+                        "{a=Product_NovaSweetBuns}Nova's Sweet Buns{a}", "Nova", "",
                         ""
                     ],
                     [
-                        "{a=Product_CraigyYummyGummyCookieCrisps}Craigy Yummy Gummy Cookie Crisps{a}", "Craig",
+                        "{a=Product_CraigyYummyGummyCookieCrisps}Craigy Yummy Gummy Cookie Crisps{a}", "Craig", "",
                         "A packet of tiny cookies with purple gummies inside."
                     ],
                     [
-                        "{a=Product_BeanieBeans}Beanie Beans{a}", "Joe Beanie",
+                        "{a=Product_BeanieBeans}Beanie Beans{a}", "Joe Beanie", "",
                         ""
                     ],
                     [
-                        "{a=Product_BrusselsLynx}Brussels Lynx's{a}", "Lynx",
+                        "{a=Product_BrusselsLynx}Brussels Lynx's{a}", "Lynx", "",
                         ""
                     ],
                     [
-                        "{a=Product_LynxJerky}Lynx Jerky{a}", "Aheko",
+                        "{a=Product_LynxJerky}Lynx Jerky{a}", "Aheko", "",
                         "Jerky made with the shedded scales from Lynx."
                     ],
                     [
-                        "{a=Product_ThunderJizzCola}Thunder Jizz Cola{a}", "Thunderbird",
+                        "{a=Product_ThunderJizzCola}Thunder Jizz Cola{a}", "Thunderbird", "",
                         ""
                     ],
                     [
-                        "{a=Product_DietThunderJizzCola}Diet Thunder Jizz Cola{a}", "Thunderbird",
+                        "{a=Product_DietThunderJizzCola}Diet Thunder Jizz Cola{a}", "Thunderbird", "",
                         ""
                     ],
                     [
-                        "{a=Product_CENSORED}[CENSORED]{a}", "[CENSORED]",
+                        "{a=Product_CENSORED}[CENSORED]{a}", "[CENSORED]", "[CENSORED]",
                         "[CENSORED]"
                     ],
                     [
-                        "{a=Product_LynxCrunchyBits}Lynx Crunchy Bits{a}", "Lynx",
+                        "{a=Product_LynxCrunchyBits}Lynx Crunchy Bits{a}", "Lynx", "",
                         ""
                     ],
                     [
-                        "{a=Product_CraigStyledFemboyFizz}Craig Styled Femboy Fizz{a}", "Craig",
+                        "{a=Product_CraigStyledFemboyFizz}Craig Styled Femboy Fizz{a}", "Craig", "",
                         "Craig-branded soda with a femboy consumer base in mind."
                     ],
                     [
-                        "{a=Product_NovaNuttySplash}Nova Nutty Splash{a}", "Nova",
+                        "{a=Product_NovaNuttySplash}Nova Nutty Splash{a}", "Nova", "",
                         "A peanut-butter yogurt drink, with a mix of something silky from Nova."
                     ],
                     [
-                        "{a=Product_NovaDowCreamNuts}Nova Dow Cream Nuts{a}", "Nova",
+                        "{a=Product_NovaDowCreamNuts}Nova Dow Cream Nuts{a}", "Nova", "",
                         "A strawberry eclaire filled with a special flavour of cream."
                     ],
                     [
-                        "{a=Product_RitiklJuice}Ritikl Juice{a}", "Nova",
+                        "{a=Product_RitiklJuice}Ritikl Juice{a}", "Nova", "",
                         "A blueberry liqueur with a mix of vodka."
                     ],
                     [
-                        "{a=Product_OddlyStiffPlaydough}Oddly Stiff Playdough{a}", "Nova",
+                        "{a=Product_OddlyStiffPlaydough}Oddly Stiff Playdough{a}", "Nova", "",
                         "A calory-rich processed lump of food, for war-time rations."
                     ],
                     [
-                        "{a=Product_DarkChocolateFeastables}dark chocolate (like Ritikl's underpants dark) Feastables{a}", "Mr. Beast",
+                        "{a=Product_DarkChocolateFeastables}dark chocolate (like Ritikl's underpants dark) Feastables{a}", "Mr. Beast", "",
                         ""
                     ],
                     [
-                        "{a=Product_CherryPopperPrime}Cherry Popper Prime{a}", "KSI and Logan Paul",
+                        "{a=Product_CherryPopperPrime}Cherry Popper Prime{a}", "KSI and Logan Paul", "",
                         ""
                     ],
                     [
-                        "{a=Product_CraigEggyGummiesLunchly}Craig eggy gummies Lunchly{a}", "KSI, Logan Paul, and Mr. Beast",
+                        "{a=Product_CraigEggyGummiesLunchly}Craig eggy gummies Lunchly{a}", "KSI, Logan Paul, and Mr. Beast", "",
                         ""
                     ],
                     [
-                        "{a=Product_Pibb}Pibb{a}", "Pibb Industries",
+                        "{a=Product_Pibb}Pibb{a}", "Pibb Industries", "",
                         ""
                     ],
                     [
-                        "{a=Product_HoresAss}Hores Ass{a}", "Heart Attack Grill No. 67",
+                        "{a=Product_HoresAss}Hores Ass{a}", "Heart Attack Grill No. 67", "",
                         ""
                     ],
                     [
-                        "{a=Product_TokxisBurritoBurger}Tokxi's Burrito Burger{a}", "Tokxi",
+                        "{a=Product_TokxisBurritoBurger}Tokxi's Burrito Burger{a}", "Tokxi", "",
                         ""
                     ],
                     [
-                        "{a=Product_CraigSauce}Craig Sauce{a}", "Craig",
+                        "{a=Product_CraigSauce}Craig Sauce{a}", "Craig", "",
                         ""
                     ],
                     [
-                        "{a=Product_CumShake}Cum Shake{a}", "Fluffy Puffy Nova's Diabolicer Pancakes",
+                        "{a=Product_CumShake}Cum Shake{a}", "Fluffy Puffy Nova's Diabolicer Pancakes", "",
                         ""
                     ],
                     [
-                        "{a=Product_MissPoppetsHomeCreamCookies}Miss Poppet's Home Cream Cookies{a}", "Poppet",
+                        "{a=Product_MissPoppetsHomeCreamCookies}Miss Poppet's Home Cream Cookies{a}", "Poppet", "",
                         ""
                     ],
                     [
-                        "{a=Product_TokxiOs}Tokxi-Os{a}", "Tokxi and Craig",
+                        "{a=Product_TokxiOs}Tokxi-Os{a}", "Tokxi and Craig", "",
                         ""
                     ]
                 ]
@@ -244,33 +244,33 @@
             "header" : "Electronic",
             "contents" : [
                 [
-                    ["Name", "Creator", "Description"],
+                    ["Name", "Creator", "date", "Description"],
                     [
-                        "{a=Product_NovaBox690}Nova Box 690{a}", "Nova",
+                        "{a=Product_NovaBox690}Nova Box 690{a}", "Nova", "",
                         ""
                     ],
                     [
-                        "{a=Product_CraigRockHardHairDryer}Craig's Rock-Hard Hair Dryer{a}", "Craig",
+                        "{a=Product_CraigRockHardHairDryer}Craig's Rock-Hard Hair Dryer{a}", "Craig", "",
                         ""
                     ],
                     [
-                        "{a=Product_NovaBox960}Nova Box 960{a}", "Nova",
+                        "{a=Product_NovaBox960}Nova Box 960{a}", "Nova", "",
                         ""
                     ],
                     [
-                        "{a=Product_NovasHoleStretcher7000}Nova's Hole Stretcher 7000{a}", "Nova",
+                        "{a=Product_NovasHoleStretcher7000}Nova's Hole Stretcher 7000{a}", "Nova", "",
                         ""
                     ],
                     [
-                        "{a=Product_TickleMeToaster}Tickle-Me Toaster{a}", "Billy Mays",
+                        "{a=Product_TickleMeToaster}Tickle-Me Toaster{a}", "Billy Mays", "",
                         ""
                     ],
                     [
-                        "{a=Product_Protogen}Protogen{a}", "Apple",
+                        "{a=Product_Protogen}Protogen{a}", "Apple", "",
                         ""
                     ],
                     [
-                        "{a=Product_NovaBox420}Nova Box 420{a}", "Nova",
+                        "{a=Product_NovaBox420}Nova Box 420{a}", "Nova", "March 2026",
                         ""
                     ]
                 ]
@@ -280,13 +280,17 @@
             "header" : "Media",
             "contents" : [
                 [
-                    ["Name", "Creator", "Type", "Description"],
+                    ["Name", "Creator", "Data", "Type", "Description"],
                     [
-                        "{a=Product_}{a}", "", "",
+                        "{a=Product_}{a}", "", "", "",
                         ""
                     ],
                     [
-                        "{a=Product_CraigTheCutieEgg2BeanieEdition}Craig The Cutie Egg 2: Beanie Edition{a}", "Craig", "Video Game (Meta Quest 2)",
+                        "{a=Product_CraigTheCutieEgg2BeanieEdition}Craig The Cutie Egg 2: Beanie Edition{a}", "Craig", "", "Video Game (Meta Quest 2)",
+                        ""
+                    ],
+                    [
+                        "{a=Product_NovaFemboyAdventures}Nova Femboy Adventures{a}", "Nova", "March 2026", "Video Game (Nova Box 420)",
                         ""
                     ]
                 ]

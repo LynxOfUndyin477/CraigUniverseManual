@@ -81,7 +81,7 @@ function load_article(article_name) {
 
     // load json file
 
-    fetch("./Articles/" + article_name + ".json").then(response => {
+    fetch("https://raw.githubusercontent.com/LynxOfUndyin477/CraigUniverseManual/refs/heads/main/Articles/" + article_name + ".json").then(response => {
 
         // get response
 
