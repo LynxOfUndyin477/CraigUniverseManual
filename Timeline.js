@@ -1,5 +1,6 @@
 
 const MONTHS = [
+    "nil",
     "January",
     "Feburary",
     "March",
@@ -24,7 +25,7 @@ function load_timeline(month, year) {
     // load json file
 
     // https://raw.githubusercontent.com/LynxOfUndyin477/CraigUniverseManual/refs/heads/main/Timeline/2023_10.json
-    fetch("https://raw.githubusercontent.com/LynxOfUndyin477/CraigUniverseManual/refs/heads/main/Timeline/" + year + "_" + (month + 1) + ".json").then(response => {
+    fetch("https://raw.githubusercontent.com/LynxOfUndyin477/CraigUniverseManual/refs/heads/main/Timeline/" + year + "_" + month + ".json").then(response => {
 
         // get response
 
