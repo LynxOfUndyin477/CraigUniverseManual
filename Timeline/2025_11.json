@@ -62,7 +62,7 @@
     {
         "header" : "Lynx's new pet goblin",
         "contents" : [
-            "{a=Person_Lynx}Lynx{a} brought {a=Person_Mawchan}Mawchan{a} a household goblin, dressed as Daphne from Scooby Doo, called {a=Person_Grubnash}Grubnash{a}Grubnash. They were about to by a Fennec fox, but a strange fellow approached him with the offer of Grubnash for one schmickle. {a=Person_JackSepticEye}JackSepticEye{a} got furious at them, for they wanted to spend the one schmickle to go to a furry convention. Lynx tried to defend this decision by stating that it can keep the house secure, clean the house, bake a cake, and can be a good friend for Mawchan. It even taught Mawchan how to front flip in 20 seconds. JackSepticEye reluctantly lets Lynx keep Grubnash, as long as they are not responsible for taking care of it."
+            "{a=Person_Lynx}Lynx{a} brought {a=Person_Mawchan}Mawchan{a} a household goblin, dressed as Daphne from Scooby Doo, called {a=Person_Grubnash}Grubnash{a}. They were about to by a Fennec fox, but a strange fellow approached him with the offer of Grubnash for one schmickle. {a=Person_JackSepticEye}JackSepticEye{a} got furious at them, for they wanted to spend the one schmickle to go to a furry convention. Lynx tried to defend this decision by stating that it can keep the house secure, clean the house, bake a cake, and can be a good friend for Mawchan. It even taught Mawchan how to front flip in 20 seconds. JackSepticEye reluctantly lets Lynx keep Grubnash, as long as they are not responsible for taking care of it."
         ]
     },
     {
@@ -82,7 +82,7 @@
         "header" : "2025 presidential debate",
         "contents" : [
             "After Texas declared independence, a presidential debate was held by Vox to determine the first president. The candidates were Will Moby of the Aheko's Anarchy party and Smith Star of the Independent party. Below is a transcript of the event",
-            "<a href=\"https://raw.githubusercontent.com/LynxOfUndyin477/CraigUniverseManual/refs/heads/main/ExternalFiles/Nov2025/Presidential%20Debate%20Transcript.txt\">Persidential Debate Transcript</a>"
+            "<a href=\"https://raw.githubusercontent.com/LynxOfUndyin477/CraigUniverseManual/refs/heads/main/ExternalFiles/Nov2025/PresidentialDebateTranscript.txt\">Persidential Debate Transcript</a>"
         ]
     },
     {

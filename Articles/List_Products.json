@@ -236,6 +236,18 @@
                     [
                         "{a=Product_TokxiOs}Tokxi-Os{a}", "Tokxi and Craig", "",
                         ""
+                    ],
+                    [
+                        "{a=Product_FemboiNovaGummyPie}Femboi Nova Gummy Pie{a}", "Nova", "March 2026",
+                        ""
+                    ],
+                    [
+                        "{a=Product_PixelsChocolateButtons}Pixel's \"Chocolate Buttons\"{a}", "Pixel", "March 2026",
+                        "Those aren't chocolate buttons."
+                    ],
+                    [
+                        "{a=Product_CrilkIceCream}Crilk Ice Cream{a}", "Craig", "March 2026",
+                        "Crilk-flavoured ice cream."
                     ]
                 ]
             ]
@@ -272,6 +284,10 @@
                     [
                         "{a=Product_NovaBox420}Nova Box 420{a}", "Nova", "March 2026",
                         ""
+                    ],
+                    [
+                        "{a=Product_StereoSalmon}Stereo Salmon{a}", "Billy Mays", "March 2026",
+                        "A salmon that can play any music you ask it."
                     ]
                 ]
             ]
@@ -291,6 +307,10 @@
                     ],
                     [
                         "{a=Product_NovaFemboyAdventures}Nova Femboy Adventures{a}", "Nova", "March 2026", "Video Game (Nova Box 420)",
+                        ""
+                    ],
+                    [
+                        "{a=Product_FiveNightsAtFemboys}Five Nights At Femboy's{a}", "Nova", "March 2026", "Video Game (Nova Box 420)",
                         ""
                     ]
                 ]
