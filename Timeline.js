@@ -57,7 +57,7 @@ function load_timeline(month, year) {
         }
         element.innerHTML += body;
     }).catch(error => {
-        element.innerHTML += "<p>Data unavailable</p>";
+        element.innerHTML += "<h2>Data Unavailable</h2><p>" + error + "</p>";
 
         // catch error
 
@@ -66,9 +66,22 @@ function load_timeline(month, year) {
 }
 
 
+fetch("https://raw.githubusercontent.com/LynxOfUndyin477/CraigUniverseManual/refs/heads/main/Timeline_Metadata.json").then(response => {
 
-for (let i = 2023; i < 2027; i++) {
-    for (let j = 0; j < 12; j++) {
-        load_timeline(j, i);
+    // get response
+
+    if (!response.ok) {
+        throw new Error(`HTTP error! Status: ${response.status}`);
     }
-}
+    return response.json(); 
+}).then(data => {
+    console.log(data);
+    for (let i = 0; i < data.length; i++) {
+        load_timeline(data[i][1], data[i][0]);
+    }
+}).catch(error => {
+
+    // catch error
+
+    console.error("Failed to fetch data:", error);
+});
