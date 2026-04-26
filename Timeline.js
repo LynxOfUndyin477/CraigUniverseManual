@@ -18,8 +18,8 @@ const MONTHS = [
 
 
 function load_timeline(month, year) {
-    let element = document.createElement("div");
-    element.innerHTML = "<h1>" + MONTHS[month] + " " + year + "</h1>"
+    let element = document.createElement("tr");
+    element.innerHTML = "<td class=\"timeline-date\"><h1 class=\"timeline-date\">" + MONTHS[month] + " " + year + "</h1></td>"
     document.getElementById("timeline-body").appendChild(element);
 
     // load json file
@@ -35,7 +35,7 @@ function load_timeline(month, year) {
         return response.json(); 
     }).then(data => {
         console.log(data);
-        let body = "";
+        let body = "<td class=\"timeline-info\">";
 
         // events
 
@@ -56,9 +56,9 @@ function load_timeline(month, year) {
 
             body += "</div>";
         }
-        element.innerHTML += body;
+        element.innerHTML += body + "</td>";
     }).catch(error => {
-        element.innerHTML += "<h2>Data Unavailable</h2><p>" + error + "</p>";
+        element.innerHTML += "<h2>Data Unavailable</h2><p>" + error + "</p></td>";
 
         // catch error
 

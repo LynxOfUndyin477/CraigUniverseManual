@@ -1,0 +1,26 @@
+* {
+    font-family: Arial, sans-serif;
+    color: white;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #1a1a1a;
+}
+
+a:link {
+    text-decoration: none;
+    color: deepskyblue;
+}
+
+a:visited {
+    text-decoration: none;
+    color: orchid;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: lightskyblue;
+}

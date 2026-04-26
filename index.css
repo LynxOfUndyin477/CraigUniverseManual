@@ -1,0 +1,21 @@
+table.index, th.index, td.index {
+    margin: 0px;
+    border: 0px none;
+    padding: 0px;
+    border-collapse: collapse;
+}
+
+tr.index {
+    border-style: solid;
+    border-width: 5px 0px;
+    border-color: black;
+}
+
+th.index, td.index {
+    padding: 40px;
+}
+
+th.index {
+    background: rgba(0, 0, 0, 0.3);
+    font-size: 48px;
+}
