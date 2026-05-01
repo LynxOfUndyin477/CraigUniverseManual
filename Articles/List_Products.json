@@ -250,8 +250,12 @@
                         "Crilk-flavoured ice cream."
                     ],
                     [
-                        "{a=Product_LynxIcePop}Lynx Ice Pop{a}", "Craig", "May 2026",
+                        "{a=Product_LynxIcePop}Lynx Ice Pop{a}", "Lynx", "May 2026",
                         "A vanilla popsicle depicting Lynx."
+                    ],
+                    [
+                        "{a=Product_NovasNoodleSoup}Nova's Noodle Soup{a}", "Nova", "May 2026",
+                        ""
                     ]
                 ]
             ]
