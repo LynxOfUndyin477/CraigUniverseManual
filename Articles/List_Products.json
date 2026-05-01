@@ -248,6 +248,10 @@
                     [
                         "{a=Product_CrilkIceCream}Crilk Ice Cream{a}", "Craig", "March 2026",
                         "Crilk-flavoured ice cream."
+                    ],
+                    [
+                        "{a=Product_LynxIcePop}Lynx Ice Pop{a}", "Craig", "May 2026",
+                        "A vanilla popsicle depicting Lynx."
                     ]
                 ]
             ]
