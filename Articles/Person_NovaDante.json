@@ -11,19 +11,19 @@
                 {
                     "header" : "The kidnapping of Santa",
                     "contents" : [
-                        "On May 2025, Nova finally kidnapped {a=Person_SaintNicholas}Santa Clause{a} after 69,420 decades of hunting him down. He was interrogating him, before Santa made him sit on his lap. He informed him that he is a \"naughty little gamer\" and placed next to arch angle Gabrial on the naughty list: He jizzed in his sock and did \"something you shouldn't do. hehe tee hee\"."
+                        "On May 2025, Nova finally kidnapped {a=Person_SaintNicholas}Santa Clause{/} after 69,420 decades of hunting him down. He was interrogating him, before Santa made him sit on his lap. He informed him that he is a \"naughty little gamer\" and placed next to arch angle Gabrial on the naughty list: He jizzed in his sock and did \"something you shouldn't do. hehe tee hee\"."
                     ]
                 },
                 {
                     "header" : "Mission Control",
                     "contents" : [
-                        "On June 2025, Nova worked in mission control. He assisted {a=Person_AgentPotatoBean}Agent Potato Bean{a} in the success of Operation: Aheko's Schmeat."
+                        "On June 2025, Nova worked in mission control. He assisted {a=Person_AgentPotatoBean}Agent Potato Bean{/} in the success of Operation: Aheko's Schmeat."
                     ]
                 },
                 {
                     "header" : "Security Guard",
                     "contents" : [
-                        "On January 2026, Nova got a job as a security guard at {a=LocationFreddyFazbearPizza}Freddy Fazbear's Pizza{a}. He didn't want to be alone so he secured a deal to bring a friend with him to work. He chose to take {a=Person_Ritikl}Ritikl{a} with him. On their first night, instead of facing up against the animatronics, they found themselves defending the building against hoards of zombies. They could only last for 13 nights, before complaining to their employer for not specifying this in the job description. The job then quickly escalated into a dimensional collapse, solely contained within the local area."
+                        "On January 2026, Nova got a job as a security guard at {a=LocationFreddyFazbearPizza}Freddy Fazbear's Pizza{/}. He didn't want to be alone so he secured a deal to bring a friend with him to work. He chose to take {a=Person_Ritikl}Ritikl{/} with him. On their first night, instead of facing up against the animatronics, they found themselves defending the building against hoards of zombies. They could only last for 13 nights, before complaining to their employer for not specifying this in the job description. The job then quickly escalated into a dimensional collapse, solely contained within the local area."
                     ]
                 }
             ]
@@ -35,13 +35,13 @@
                 {
                     "header" : "Consumable",
                     "contents" : [
-                        "<b>{a=Product_MushroomFemboyNovaGummies}Mushroom Femboy Nova Gummies{a}</b> - A little, pink sweet in the shape of Nova's head. Contains ground-up magic mushrooms, supplied by {a=Location_TokxiHerbalRemedies}Tokxi's Herbal's Remedies{a}.",
-                        "<b>{a=Product_CreamyMilkieJellos}Creamy Milkie Jellos{a}</b> - A crème caramel flan in the form of a jello shot.",
-                        "<b>{a=Product_SweetBuns}Sweet Buns{a}</b> - A sweet bun with a slightly higher concentration of sugar.",
-                        "<b>{a=Product_NovaNuttySplash}Nova Nutty Splash{a}</b> - A peanut-butter yogurt drink, with a mix of something silky from Nova.",
-                        "<b>{a=Product_NovaDowCreamNuts}Nova Dow Cream Nuts{a}</b> - A strawberry eclaire filled with a special flavour of cream.",
-                        "<b>{a=Product_RitiklJuice}Ritikl Juice{a}</b> - A blueberry liqueur with a mix of vodka.",
-                        "<b>{a=Product_OddlyStiffPlaydough}Oddly Stiff Playdough{a}</b> - A calory-rich processed lump of food, for war-time rations."
+                        "<b>{a=Product_MushroomFemboyNovaGummies}Mushroom Femboy Nova Gummies{/}</b> - A little, pink sweet in the shape of Nova's head. Contains ground-up magic mushrooms, supplied by {a=Location_TokxiHerbalRemedies}Tokxi's Herbal's Remedies{/}.",
+                        "<b>{a=Product_CreamyMilkieJellos}Creamy Milkie Jellos{/}</b> - A crème caramel flan in the form of a jello shot.",
+                        "<b>{a=Product_SweetBuns}Sweet Buns{/}</b> - A sweet bun with a slightly higher concentration of sugar.",
+                        "<b>{a=Product_NovaNuttySplash}Nova Nutty Splash{/}</b> - A peanut-butter yogurt drink, with a mix of something silky from Nova.",
+                        "<b>{a=Product_NovaDowCreamNuts}Nova Dow Cream Nuts{/}</b> - A strawberry eclaire filled with a special flavour of cream.",
+                        "<b>{a=Product_RitiklJuice}Ritikl Juice{/}</b> - A blueberry liqueur with a mix of vodka.",
+                        "<b>{a=Product_OddlyStiffPlaydough}Oddly Stiff Playdough{/}</b> - A calory-rich processed lump of food, for war-time rations."
                     ]
                 }
             ]
@@ -53,7 +53,7 @@
                 {
                     "header" : "Kevin's custody",
                     "contents" : [
-                        "On 10th December 2023, Nova's ex-husband, {a=Person_IvoRobotnik}Dr. Robotnik{a}, fell into labour. Nova rush him to the hospital and he successfully gave birth to {a=Person_KevinRobotnik}Kevin{a}. Nova realized that the child did not look anything like him and soon figured out that they weren't actually his. He quickly found out that the child actually belongs to {a=Person_Woopinator}Woopinator{a}, when they entered the ward. The two had a cock fight, to determine who has custody over Kevin. Nova lost this fight and blacked out."
+                        "On 10th December 2023, Nova's ex-husband, {a=Person_IvoRobotnik}Dr. Robotnik{/}, fell into labour. Nova rush him to the hospital and he successfully gave birth to {a=Person_KevinRobotnik}Kevin{/}. Nova realized that the child did not look anything like him and soon figured out that they weren't actually his. He quickly found out that the child actually belongs to {a=Person_Woopinator}Woopinator{/}, when they entered the ward. The two had a cock fight, to determine who has custody over Kevin. Nova lost this fight and blacked out."
                     ]
                 }
             ]

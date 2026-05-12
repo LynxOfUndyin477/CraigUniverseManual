@@ -2,32 +2,32 @@
     {
         "header" : "Craig's second date stream",
         "contents" : [
-            "{a=Person_Craig}Craig{a} has done another date stream with a new date: the killer from Scary Movie. Their real name is {a=Person_Samantha}Samantha{a} but they prefer the nickname \"Mitten Kitten\". They are a sewer worker at Anglian Water. They enjoy traveling and The Godfather trilogy and despise The Annoying Orange. They have traveled to 30 countries.",
-            "Craig ordered {a=Product_CraigCreamyJizzBeer}Craig's creamy jizz beer{a}, {a=Product_AhekoSchmeat}Aheko's schmeat{a} with {a=Product_CraigCumJam}Craig cum jam{a}, and {a=Product_PuddingPudding}Pudding's pudding{a}. Mitten Kitten ordered Craig's creamy jizz beer, Aheko's schmeat with Craig cum jam, and Pudding's pudding. Craig also confessed that he still sleeps with his teddy bear."
+            "{a=Person_Craig}Craig{/} has done another date stream with a new date: the killer from Scary Movie. Their real name is {a=Person_Samantha}Samantha{/} but they prefer the nickname \"Mitten Kitten\". They are a sewer worker at Anglian Water. They enjoy traveling and The Godfather trilogy and despise The Annoying Orange. They have traveled to 30 countries.",
+            "Craig ordered {a=Product_CraigCreamyJizzBeer}Craig's creamy jizz beer{/}, {a=Product_AhekoSchmeat}Aheko's schmeat{/} with {a=Product_CraigCumJam}Craig cum jam{/}, and {a=Product_PuddingPudding}Pudding's pudding{/}. Mitten Kitten ordered Craig's creamy jizz beer, Aheko's schmeat with Craig cum jam, and Pudding's pudding. Craig also confessed that he still sleeps with his teddy bear."
         ]
     },
     {
         "header" : "Release of Nova Box 690",
         "contents" : [
-            "{a=Person_NovaDante}Nova{a} tired releasing his own lineup of gaming console hardware, starting with the {a=Product_NovaBox690}Nova Box 690{a}. It has a Pentium 4 single-core processor and an NVIDIA GeForce GTX 750 Ti  with 128GB of ram and 64GB of storage from an SD card. Due to its poor performance and lack of launch game support, it was mainly used as a cheap computer for payment processing at cash tills for shops."
+            "{a=Person_NovaDante}Nova{/} tired releasing his own lineup of gaming console hardware, starting with the {a=Product_NovaBox690}Nova Box 690{/}. It has a Pentium 4 single-core processor and an NVIDIA GeForce GTX 750 Ti  with 128GB of ram and 64GB of storage from an SD card. Due to its poor performance and lack of launch game support, it was mainly used as a cheap computer for payment processing at cash tills for shops."
         ]
     },
     {
         "header" : "Sprinkle Sploodge launch",
         "contents" : [
-            "{a=Person_Woopinator}Woopinator{a} tried creating his own game for the {a=Product_NovaBox690}Nova Box 690{a} called {a=Media_SprinkleSploodge}Sprinkle Sploodge{a}. There is no information about this game nor review of it on IGN."
+            "{a=Person_Woopinator}Woopinator{/} tried creating his own game for the {a=Product_NovaBox690}Nova Box 690{/} called {a=Media_SprinkleSploodge}Sprinkle Sploodge{/}. There is no information about this game nor review of it on IGN."
         ]
     },
     {
         "header" : "The Groper's capture",
         "contents" : [
-            "{a=Person_CountBeanie}Count{a} Beanie and his goons, {a=Person_Curb}Curb{a}, Charizard, and a random griffin, were plotting to stop the heroes of {a=Location_Craigville}Craigville{a}. {a=Person_TheGroper}The Groper{a} sneaked into the group, disguised as Charizard. He gave them a bunch of terrible ideas and even got them to drink bottles of piss. Once he revealed himself, Curb quickly knocked him unconscious. The Groper has been stuck there ever since, getting interrogated and tortured."
+            "{a=Person_CountBeanie}Count{/} Beanie and his goons, {a=Person_Curb}Curb{/}, Charizard, and a random griffin, were plotting to stop the heroes of {a=Location_Craigville}Craigville{/}. {a=Person_TheGroper}The Groper{/} sneaked into the group, disguised as Charizard. He gave them a bunch of terrible ideas and even got them to drink bottles of piss. Once he revealed himself, Curb quickly knocked him unconscious. The Groper has been stuck there ever since, getting interrogated and tortured."
         ]
     },
     {
         "header" : "Schmeat factory experiment",
         "contents" : [
-            "A hidden experiment went rogue and broke free from the {a=Location_SchmeatFactory}schmeat factory{a}. This experiment is capable of creating clones of anyone. No one knows what happened to it or where it could be. But, 4 of the same wife were spotted entering a house, along with the husband, and then began moaning loudly."
+            "A hidden experiment went rogue and broke free from the {a=Location_SchmeatFactory}schmeat factory{/}. This experiment is capable of creating clones of anyone. No one knows what happened to it or where it could be. But, 4 of the same wife were spotted entering a house, along with the husband, and then began moaning loudly."
         ]
     }
 ]

@@ -20,7 +20,7 @@ function load_article(article_name, id) {
         for (let i = 0; i < data.opener.length; i++) {
             let str = data.opener[i]
             str = str.replaceAll("{a=", "<a href=\"Article.html?title=");
-            str = str.replaceAll("{a}", "</a>");
+            str = str.replaceAll("{/}", "</a>");
             str = str.replaceAll("}", "\">");
             body += "<p>" + str + "</p>";
         }

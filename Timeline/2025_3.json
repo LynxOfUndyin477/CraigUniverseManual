@@ -2,7 +2,7 @@
     {
         "header" : "The invasion of the USA",
         "contents" : [
-            "The United States Government took over {a=Location_LynxShed}Lynx's shed{a} to use as a base of operations, whilst under attack from an alien race of {a=Organisation_HyperIntelligentOctopi}hyper intelligent octopi{a}. {a=Person_V1}V1{a} and the other guards were unable to protect the president, leading to their capture and the takeover of the world. But, due to property laws, {a=Person_Lynx}Lynx{a} still holds the full rights to their territory and {a=Person_Aheko}Aheko{a} and {a=Person_Poppet}Poppet{a} are now roommates with the US Government."
+            "The United States Government took over {a=Location_LynxShed}Lynx's shed{/} to use as a base of operations, whilst under attack from an alien race of {a=Organisation_HyperIntelligentOctopi}hyper intelligent octopi{/}. {a=Person_V1}V1{/} and the other guards were unable to protect the president, leading to their capture and the takeover of the world. But, due to property laws, {a=Person_Lynx}Lynx{/} still holds the full rights to their territory and {a=Person_Aheko}Aheko{/} and {a=Person_Poppet}Poppet{/} are now roommates with the US Government."
         ]
     }
 ]

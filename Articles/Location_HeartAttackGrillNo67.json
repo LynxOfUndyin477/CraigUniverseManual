@@ -12,7 +12,7 @@
                     "header" : "Main",
                     "contents" : [
                         "<b>Horse ass</b>",
-                        "<b>Tokxi burrito burgur</b> - Optional: {a=Product_CraigSauce}Craig sauce{a}, deep-fried, extra batter, steak grease"
+                        "<b>Tokxi burrito burgur</b> - Optional: {a=Product_CraigSauce}Craig sauce{/}, deep-fried, extra batter, steak grease"
                     ]
                 },
                 {

@@ -36,7 +36,7 @@ function get_content_html(content) {
     else {
         str = content
         str = str.replaceAll("{a=", "<a href=\"Article.html?title=");
-        str = str.replaceAll("{a}", "</a>");
+        str = str.replaceAll("{/}", "</a>");
         str = str.replaceAll("}", "\">");
     }
 
@@ -91,35 +91,30 @@ function load_article(article_name) {
         return response.json(); 
     }).then(data => {
         console.log(data);
+        let element_head = document.getElementById("article-head");
 
         // title
 
-        console.log(data.title);
-        document.getElementById("article-head").innerHTML = data.title
+        let element_h1 = document.createElement("h1");
+        element_h1.innerHTML = data.title;
+        element_head.appendChild(element_h1);
 
         // opener
 
-        let body = ""
         for (let i = 0; i < data.opener.length; i++) {
-            let str = data.opener[i]
-            str = str.replaceAll("{a=", "<a href=\"Article.html?title=");
-            str = str.replaceAll("{a}", "</a>");
-            str = str.replaceAll("}", "\">");
-            body += "<p>" + str + "</p>";
+            add_elements(element_head, data.opener[i]);
         }
 
         // sections
 
-        body += get_section_html(data.sections, 0) + "</div>";
-        document.getElementById("article-sections").innerHTML = body
-
-        // see also
-
-        document.getElementById("article-seealso").innerHTML = ""
+        let element_section = document.getElementById("article-sections");
+        for (let i = 0; i < data.sections.length; i++) {
+            element_section.appendChild(get_section_element(data.sections[i]));
+        }
     }).catch(error => {
-        document.getElementById("article-head").innerHTML = "Failed to load :("
-        document.getElementById("article-sections").innerHTML = "Failed to load article \"" + article_name + "\""
-        document.getElementById("article-timeline").innerHTML = error
+        document.getElementById("article-head").innerHTML = "Failed to load article \"" + article_name + "\" :("
+        document.getElementById("article-sections").innerHTML = error
+        document.getElementById("article-timeline").innerHTML = ""
         document.getElementById("article-seealso").innerHTML = "There is nothing to see"
 
         // catch error

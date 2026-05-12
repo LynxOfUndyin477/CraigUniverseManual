@@ -2,44 +2,44 @@
     {
         "header" : "Military Ship Crash",
         "contents" : [
-            "{a=Person_CaptainSaskatoon}Captain Saskatoon's{a} ship, the U.S.S. Pen Is, was on a head-on collision course with a lighthouse in Canada. Below are the transmissions sent between them.",
+            "{a=Person_CaptainSaskatoon}Captain Saskatoon's{/} ship, the U.S.S. Pen Is, was on a head-on collision course with a lighthouse in Canada. Below are the transmissions sent between them.",
             "<a href=\"https://raw.githubusercontent.com/LynxOfUndyin477/CraigUniverseManual/refs/heads/main/ExternalFiles/Mar2026/MilitaryShipAndCanadianLighthouseTransmissions.txt\">Military Ship and Canadian Lighthouse Transmissions</a>"
         ]
     },
     {
         "header" : "Lynx's Only Job",
         "contents" : [
-            "{a=Person_Lynx}Lynx{a} got a job in {a=Company_Apple}Apple{a} tech support. Their first (and only) call they got was {a=Person_Tokxi}Tokxi{a} wanting his {a=Product_Protogen}Protogen{a} to be replaced. It suddenly stopped working 10 minutes before the call. Whilst Lynx was going through the troubleshooting, Tokxi mentioned that he uses it to wash his jizz racks. Lynx informed him that that voids the waranty, since 30th April 1946. But they can still continue with troubleshooting. They told Tokxi to sign in to Apple on their computer. Tokix informed them that he can't use the computer, as the power is out. Lynx then immediately charges them for the call, hangs up, and experiences an emotional breakdown. They quit the job, later that day."
+            "{a=Person_Lynx}Lynx{/} got a job in {a=Company_Apple}Apple{/} tech support. Their first (and only) call they got was {a=Person_Tokxi}Tokxi{/} wanting his {a=Product_Protogen}Protogen{/} to be replaced. It suddenly stopped working 10 minutes before the call. Whilst Lynx was going through the troubleshooting, Tokxi mentioned that he uses it to wash his jizz racks. Lynx informed him that that voids the waranty, since 30th April 1946. But they can still continue with troubleshooting. They told Tokxi to sign in to Apple on their computer. Tokix informed them that he can't use the computer, as the power is out. Lynx then immediately charges them for the call, hangs up, and experiences an emotional breakdown. They quit the job, later that day."
         ]
     },
     {
         "header" : "Aheko's Unfortunate Events",
         "contents" : [
-            "{a=Person_Craig}Craig{a} had neutered {a=Person_Aheko}Aheko{a}."
+            "{a=Person_Craig}Craig{/} had neutered {a=Person_Aheko}Aheko{/}."
         ]
     },
     {
         "header" : "Nova's Death",
         "contents" : [
-            "{a=Person_NovaDante}Nova{a} met up with {a=Person_DiamondShadow45}DiamondShadow45{a} at {a=Location_Craigvile}Craigville Town Centre{a}. They found each other in Craig's Homeworld on VRChat, some time before the invasion of the hyperintelligent octopi. Upon meeting up, an officer arrives and guns down Nova for publicly masterbating long before."
+            "{a=Person_NovaDante}Nova{/} met up with {a=Person_DiamondShadow45}DiamondShadow45{/} at {a=Location_Craigvile}Craigville Town Centre{/}. They found each other in Craig's Homeworld on VRChat, some time before the invasion of the hyperintelligent octopi. Upon meeting up, an officer arrives and guns down Nova for publicly masterbating long before."
         ]
     },
     {
         "header" : "Stereo Salmon",
         "contents" : [
-            "{a=Person_BillyMays}Billy Mays{a} launched a new device called {a=Product_StereoSalmon}The Stereo Salmon{a}. It can play any music you ask of it. There is also a \"Prank-a-Song\" variant where you can make it play a specific song for someone, to prank them or get revenge. For $99.99, you can get a Stereo salmon, a Prank-a-Song, and a free pair of cheap headphones."
+            "{a=Person_BillyMays}Billy Mays{/} launched a new device called {a=Product_StereoSalmon}The Stereo Salmon{/}. It can play any music you ask of it. There is also a \"Prank-a-Song\" variant where you can make it play a specific song for someone, to prank them or get revenge. For $99.99, you can get a Stereo salmon, a Prank-a-Song, and a free pair of cheap headphones."
         ]
     },
     {
         "header" : "Craig's Previous Life", 
         "contents" : [
-            "{a=Person_Craig}Craig{a} appeared on Good Morning Britain, to talk about the life he once had in a parallel universe. Right before he was sent to this universe, he was on a date with {a=Person_NovaDante}Nova{a}. They were eating at Nova's Femboy Eaterie and both ordered Nova's Creamy Meatballs and Nova Cream Juice. After eating, the bill cam in at one billion dollars. They both refused to pay, as the did not have that kind of money. The swedish waitress and chef decided to kill them instead. The chef managed to kill Nova and Craig accidentally sent himself this this universe whilst fighting back."
+            "{a=Person_Craig}Craig{/} appeared on Good Morning Britain, to talk about the life he once had in a parallel universe. Right before he was sent to this universe, he was on a date with {a=Person_NovaDante}Nova{/}. They were eating at Nova's Femboy Eaterie and both ordered Nova's Creamy Meatballs and Nova Cream Juice. After eating, the bill cam in at one billion dollars. They both refused to pay, as the did not have that kind of money. The swedish waitress and chef decided to kill them instead. The chef managed to kill Nova and Craig accidentally sent himself this this universe whilst fighting back."
         ]
     },
     {
         "header" : "Mynx Found",
         "contents" : [
-            "Whilst {a=Person_Pixel}Pixel{a} and {a=Person_Toxki}Tokxi{a} were fishing, they pulled out {a=Person_Mynx}Mynx{a} from the waters. In an act of frustration, he smacked them and scurried back."
+            "Whilst {a=Person_Pixel}Pixel{/} and {a=Person_Toxki}Tokxi{/} were fishing, they pulled out {a=Person_Mynx}Mynx{/} from the waters. In an act of frustration, he smacked them and scurried back."
         ]
     }
 ]

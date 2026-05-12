@@ -2,13 +2,13 @@
     {
         "header" : "Lynx's leak video",
         "contents" : [
-            "A video of {a=Person_Lynx}Lynx{a} sucking a penis was leaked online and became a popular video to troll other people with."
+            "A video of {a=Person_Lynx}Lynx{/} sucking a penis was leaked online and became a popular video to troll other people with."
         ]
     },
     {
         "header" : "Poppet's move-in",
         "contents" : [
-            "{a=Person_Poppet}Poppet{a} moves in with {a=Person_Aheko}Aheko{a} in {a=Location_LynxShed}Lynx's shed{a}"
+            "{a=Person_Poppet}Poppet{/} moves in with {a=Person_Aheko}Aheko{/} in {a=Location_LynxShed}Lynx's shed{/}"
         ]
     }
 ]

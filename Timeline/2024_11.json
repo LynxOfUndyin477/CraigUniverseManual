@@ -2,7 +2,7 @@
     {
         "header" : "Aheko's new home",
         "contents" : [
-            "{a=Person_Aheko}Aheko{a} began renting out {a=Location_LynxShed}Lynx's shed{a}, after spending many months trying to obtain their own home."
+            "{a=Person_Aheko}Aheko{/} began renting out {a=Location_LynxShed}Lynx's shed{/}, after spending many months trying to obtain their own home."
         ]
     }
 ]

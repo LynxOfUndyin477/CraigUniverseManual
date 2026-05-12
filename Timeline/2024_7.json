@@ -2,13 +2,13 @@
     {
         "header" : "The Mr. Tumble situation",
         "contents" : [
-            "{a=Person_MrTumble}Mr. Tumble{a} was caught saying \"bastard\" in {a=Person_Craig}Craig's{a} SRB2Kart stream."
+            "{a=Person_MrTumble}Mr. Tumble{/} was caught saying \"bastard\" in {a=Person_Craig}Craig's{/} SRB2Kart stream."
         ]
     },
     {
         "header" : "Craig signs up for the Helldivers",
         "contents" : [
-            "{a=Person_Craig}Craig{a} finds out about the Helldivers after a rep joins his VRChat Shenanigans and informs him about the valiant cause. He signs up when promised he would get his own personalised armour and a custom cape."
+            "{a=Person_Craig}Craig{/} finds out about the Helldivers after a rep joins his VRChat Shenanigans and informs him about the valiant cause. He signs up when promised he would get his own personalised armour and a custom cape."
         ]
     }
 ]

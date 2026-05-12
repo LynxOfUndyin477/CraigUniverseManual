@@ -13,7 +13,7 @@
                 {
                     "header" : "Family",
                     "contents" : [
-                        "Dr. Robotnik has 2 sons. His first son, {a=Person_KevinRobotnik}Kevin{a}, was born on 10th December 2023 and died on the same day after drowning in a hospital sink. His second son, {a=Person_TimRobotnik}Tim{a}, was born on 8th April 2018 and adopted on 14th December 2025."
+                        "Dr. Robotnik has 2 sons. His first son, {a=Person_KevinRobotnik}Kevin{/}, was born on 10th December 2023 and died on the same day after drowning in a hospital sink. His second son, {a=Person_TimRobotnik}Tim{/}, was born on 8th April 2018 and adopted on 14th December 2025."
                     ]
                 }
             ]

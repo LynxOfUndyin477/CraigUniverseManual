@@ -2,7 +2,7 @@
     {
         "header" : "Braig's wedding",
         "contents" : [
-            "{a=Peopla_Braig}Braig{a} decides to finally marry the mystical {a=Peopla_DemWomen}Dem Women{a}. They initially planned to get Dwayne \"The Rock\" Johnson to be the priest and have him hold two plushies of themselves. But, it wasn't in the budget. {a=Peopla_Aheko}Aheko{a} (his old friend) objected to this wedding and began an emotional rant:",
+            "{a=Peopla_Braig}Braig{/} decides to finally marry the mystical {a=Peopla_DemWomen}Dem Women{/}. They initially planned to get Dwayne \"The Rock\" Johnson to be the priest and have him hold two plushies of themselves. But, it wasn't in the budget. {a=Peopla_Aheko}Aheko{/} (his old friend) objected to this wedding and began an emotional rant:",
             "<i>\"I object to this wedding! You two are too young to be throwing your lives away like this.\"</i>",
             "<i>\"Braig, I thought you were better than this. We were supposed to finish the last level of The Last Of Us. How are you gonna do that, now that you're getting married?\"</i>",
             "<i>\"You scoundrel! You corrupted my friend with Welcome to the Cum Zone and other stupid things girls do. How dare your ass!\"</i>",
@@ -15,13 +15,13 @@
     {
         "header" : "Rick's playdough",
         "contents" : [
-            "{a=Peopla_Rick}Rick{a} has revealed that his playdough has been laced with a copious amount of explosive gunpowder. He let slip this information during {a=Peopla_Aheko}Aheko's{a} game of Who Wants To Be A Millionaire. This could be the same substance use in the truck explosion of August 2024."
+            "{a=Peopla_Rick}Rick{/} has revealed that his playdough has been laced with a copious amount of explosive gunpowder. He let slip this information during {a=Peopla_Aheko}Aheko's{/} game of Who Wants To Be A Millionaire. This could be the same substance use in the truck explosion of August 2024."
         ]
     },
     {
         "header" : "Pixel's broken leg",
         "contents" : [
-            "{a=Peopla_Pixel}Pixel{a} has broken there leg in a car crash. {a=Peopla_Lynx}Lynx{a} bit them to turned them into a naga until their leg gets better."
+            "{a=Peopla_Pixel}Pixel{/} has broken there leg in a car crash. {a=Peopla_Lynx}Lynx{/} bit them to turned them into a naga until their leg gets better."
         ]
     }
 ]

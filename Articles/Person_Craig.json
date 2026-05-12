@@ -11,7 +11,7 @@
                 {
                     "header" : "Helldiver",
                     "contents" : [
-                        "on July 2024, Craig signed up to become a {a=Organisation_Helldivers}Helldiver{a}. They are interstellar soldiers of war, who's primary goal is to clear the milky way galaxy of terminids, automatons, and the illuminate. He signed up during the start of the war against the illuminates, when they were first spotted in federation space. In January 2025, he received training and began his first line of duty. He partnered up with the helldiver veteran, {a=Person_ThunderbirdRed}Thunderbird Red{a}, aboard their Claw of War Super Destroyer. His mission was to rescue civilians ans members of the Helldivers, before they became the voteless."
+                        "on July 2024, Craig signed up to become a {a=Organisation_Helldivers}Helldiver{/}. They are interstellar soldiers of war, who's primary goal is to clear the milky way galaxy of terminids, automatons, and the illuminate. He signed up during the start of the war against the illuminates, when they were first spotted in federation space. In January 2025, he received training and began his first line of duty. He partnered up with the helldiver veteran, {a=Person_ThunderbirdRed}Thunderbird Red{/}, aboard their Claw of War Super Destroyer. His mission was to rescue civilians ans members of the Helldivers, before they became the voteless."
                     ]
                 }
             ]
@@ -23,23 +23,23 @@
                 {
                     "header" : "Consumable",
                     "contents" : [
-                        "<b>{a=Product_CraigCumJam}Craig Cum Jam{a}</b> - Craig's flagship flavour of jam. Made with a very secret substance that is of a private matter.",
-                        "<b>{a=Product_Crilk}Crilk{a}</b> - Trademarked milk sourced from craig's experimental lab-grown udders.",
-                        "<b>{a=Product_CraigMaidSoda}Craig Maid Soda{a}</b> - A cool beverage made with the blood, sweat, and tears of maids.",
-                        "<b>{a=Product_CatPee}Cat Pee{a}</b> - Just straight up cat urine. Nothing more, nothing less.",
-                        "<b>{a=Product_YummyYumTummyTumTumSodi}Yummy Yum Tummy Tum Tum Sodi{a}</b> - Regular soda with a reduced fizziness.",
-                        "<b>{a=Product_OneBillionDollarPopcorn}One Billion Dollar Popcorn{a}</b> - Toffee popcore coated in a layer of edible gold.",
-                        "<b>{a=Product_NovaSaggyBreasts}Nova's Saggy Breasts{a}</b> - Breast meat sourced from free-range {a=Person_NovaDante}Nova clones{a} and then injected with botox.",
-                        "<b>{a=Product_CheapyMcCheapscapeMeal}Cheapy McCheapscape Meal{a}</b> - A budget meal that consists of some ketchup between two burger buns.",
-                        "<b>{a=Product_CraigFizzyJizzySoda}Craig's Fizzy Jizzy Soda{a}</b> - Purple soda flavoured with a carbonated variant of Craig's secret ingredient and topped with Craig's exclusive purple glop-cream.",
-                        "<b>{a=Product_CraigPurplePenisMeat}Craig Purple Penis Meat{a}</b> - The harvested meat from the {a=Species_CraigPurplePenis}Craig Purple Penis{a}, after the end of their rampaing in {a=Location_Craigville}Craigville{a}.",
-                        "<b>{a=Product_CraigCreamyJizzBeer}Craig's Creamy Jizz Beer{a}</b> - A classic british pint mixed with Craig's surprise cream.",
-                        "<b>{a=Product_CraigFemboyMilk}Craig's Femboy Milk{a}</b> - Milk sourced from volenteer femboys.",
-                        "<b>{a=Product_CraigCiderJam}Craig's Cider Jam{a}</b> - A cider mixed with Craig's Femboy Milk and a hint of mint.",
-                        "<b>{a=Product_CraigBerryCherryBananaSoup}Craig's Berry Cherry Banana Soup{a}</b> - Banana soup with some squeezed berries and minced cherries mixed in.",
-                        "<b>{a=Product_CraigJizzBitsNShits}Craig's Jizz Bits N' Shits{a}</b> - Small chocolate balls filled with and covered in a strange goo from Craig's room.",
-                        "<b>{a=Product_CraigyYummyGummyCookieCrisps}Craigy Yummy Gummy Cookie Crisps{a}</b> - A packet of tiny cookies with purple gummies inside.",
-                        "<b>{a=Product_CraigStyledFemboyFizz}Craig Styled Femboy Fizz{a}</b> - Craig-branded soda with a femboy consumer base in mind."
+                        "<b>{a=Product_CraigCumJam}Craig Cum Jam{/}</b> - Craig's flagship flavour of jam. Made with a very secret substance that is of a private matter.",
+                        "<b>{a=Product_Crilk}Crilk{/}</b> - Trademarked milk sourced from craig's experimental lab-grown udders.",
+                        "<b>{a=Product_CraigMaidSoda}Craig Maid Soda{/}</b> - A cool beverage made with the blood, sweat, and tears of maids.",
+                        "<b>{a=Product_CatPee}Cat Pee{/}</b> - Just straight up cat urine. Nothing more, nothing less.",
+                        "<b>{a=Product_YummyYumTummyTumTumSodi}Yummy Yum Tummy Tum Tum Sodi{/}</b> - Regular soda with a reduced fizziness.",
+                        "<b>{a=Product_OneBillionDollarPopcorn}One Billion Dollar Popcorn{/}</b> - Toffee popcore coated in a layer of edible gold.",
+                        "<b>{a=Product_NovaSaggyBreasts}Nova's Saggy Breasts{/}</b> - Breast meat sourced from free-range {a=Person_NovaDante}Nova clones{/} and then injected with botox.",
+                        "<b>{a=Product_CheapyMcCheapscapeMeal}Cheapy McCheapscape Meal{/}</b> - A budget meal that consists of some ketchup between two burger buns.",
+                        "<b>{a=Product_CraigFizzyJizzySoda}Craig's Fizzy Jizzy Soda{/}</b> - Purple soda flavoured with a carbonated variant of Craig's secret ingredient and topped with Craig's exclusive purple glop-cream.",
+                        "<b>{a=Product_CraigPurplePenisMeat}Craig Purple Penis Meat{/}</b> - The harvested meat from the {a=Species_CraigPurplePenis}Craig Purple Penis{/}, after the end of their rampaing in {a=Location_Craigville}Craigville{/}.",
+                        "<b>{a=Product_CraigCreamyJizzBeer}Craig's Creamy Jizz Beer{/}</b> - A classic british pint mixed with Craig's surprise cream.",
+                        "<b>{a=Product_CraigFemboyMilk}Craig's Femboy Milk{/}</b> - Milk sourced from volenteer femboys.",
+                        "<b>{a=Product_CraigCiderJam}Craig's Cider Jam{/}</b> - A cider mixed with Craig's Femboy Milk and a hint of mint.",
+                        "<b>{a=Product_CraigBerryCherryBananaSoup}Craig's Berry Cherry Banana Soup{/}</b> - Banana soup with some squeezed berries and minced cherries mixed in.",
+                        "<b>{a=Product_CraigJizzBitsNShits}Craig's Jizz Bits N' Shits{/}</b> - Small chocolate balls filled with and covered in a strange goo from Craig's room.",
+                        "<b>{a=Product_CraigyYummyGummyCookieCrisps}Craigy Yummy Gummy Cookie Crisps{/}</b> - A packet of tiny cookies with purple gummies inside.",
+                        "<b>{a=Product_CraigStyledFemboyFizz}Craig Styled Femboy Fizz{/}</b> - Craig-branded soda with a femboy consumer base in mind."
                     ]
                 }
             ]

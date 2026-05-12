@@ -18,9 +18,14 @@ const MONTHS = [
 
 
 function load_timeline(month, year) {
-    let element = document.createElement("tr");
-    element.innerHTML = "<td class=\"timeline-date\"><h1 class=\"timeline-date\">" + MONTHS[month] + " " + year + "</h1></td>"
-    document.getElementById("timeline-body").appendChild(element);
+    let element_tr = document.createElement("tr");
+    document.getElementById("timeline-body").appendChild(element_tr);
+    let element_td = document.createElement("td");
+    element_td.class = "timeline-date"
+    element_td.innerHTML = "<h1 class=\"timeline-date\">" + MONTHS[month] + " " + year + "</h1>";
+    element_tr.appendChild(element_td);
+    element_td = document.createElement("td");
+    element_tr.appendChild(element_td);
 
     // load json file
 
@@ -32,36 +37,20 @@ function load_timeline(month, year) {
         if (!response.ok) {
             throw new Error(`HTTP error! Status: ${response.status}`);
         }
-        return response.json(); 
+        return response.json();
     }).then(data => {
+
+        // setup
+
         console.log(data);
-        let body = "<td class=\"timeline-info\">";
-
-        // events
-
-        let event;
         for (let i = 0; i < data.length; i++) {
-            event = data[i];
-            body += "<div><h2>" + event.header + "</h2>";
-
-            // contents
-
-            for (let j = 0; j < event.contents.length; j++) {
-                let str = event.contents[j]
-                str = str.replaceAll("{a=", "<a href=\"Article.html?title=");
-                str = str.replaceAll("{a}", "</a>");
-                str = str.replaceAll("}", "\">");
-                body += "<p>" + str + "</p>";
-            }
-
-            body += "</div>";
+            element_td.appendChild(get_section_element(data[i]));
         }
-        element.innerHTML += body + "</td>";
     }).catch(error => {
-        element.innerHTML += "<h2>Data Unavailable</h2><p>" + error + "</p></td>";
 
         // catch error
 
+        element_td.innerHTML += "<h2>Data Unavailable</h2><p>" + error + "</p></td>";
         console.error("Failed to fetch data:", error);
     });
 }
