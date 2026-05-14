@@ -21,10 +21,11 @@ function load_timeline(month, year) {
     let element_tr = document.createElement("tr");
     document.getElementById("timeline-body").appendChild(element_tr);
     let element_td = document.createElement("td");
-    element_td.class = "timeline-date"
+    element_td.classList.add('timeline-date');
     element_td.innerHTML = "<h1 class=\"timeline-date\">" + MONTHS[month] + " " + year + "</h1>";
     element_tr.appendChild(element_td);
     element_td = document.createElement("td");
+    element_td.classList.add('timeline-info');
     element_tr.appendChild(element_td);
 
     // load json file

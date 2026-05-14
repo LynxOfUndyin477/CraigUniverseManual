@@ -5,6 +5,7 @@
     ],
     "sections" : [
         {
+            "type" : "section",
             "header" : "Consumable",
             "contents" : [
                 [
@@ -261,6 +262,7 @@
             ]
         },
         {
+            "type" : "section",
             "header" : "Electronic",
             "contents" : [
                 [
@@ -301,6 +303,7 @@
             ]
         },
         {
+            "type" : "section",
             "header" : "Media",
             "contents" : [
                 [

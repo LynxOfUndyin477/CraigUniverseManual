@@ -1,82 +1,4 @@
 
-function get_content_html(content) {
-    let str;
-
-    // array
-
-    if (Array.isArray(content)) {
-
-        // table
-
-        if (Array.isArray(content[0])) {
-            str = "<table>";
-            for (let i = 0; i < content.length; i++) {
-                str += "<tr>";
-                for (let j = 0; j < content[i].length; j++) {
-                    str += "<td>" + get_content_html(content[i][j]) + "</td>";
-                }
-                str += "</tr>";
-            }
-            str += "</table>";
-        }
-
-        // list
-
-        else {
-            str = "<ul>";
-            for (let i = 0; i < content.length; i++) {
-                str += "<li>" + content[i] + "</li>";
-            }
-            str += "</ul>";
-        }
-    }
-
-    // other
-
-    else {
-        str = content
-        str = str.replaceAll("{a=", "<a href=\"Article.html?title=");
-        str = str.replaceAll("{/}", "</a>");
-        str = str.replaceAll("}", "\">");
-    }
-
-    return str;
-}
-
-
-
-function get_section_html(sections, steps) {
-    let body = "<div>";
-    let secion;
-    let content;
-    let str;
-    for (let i = 0; i < sections.length; i++) {
-        secion = sections[i];
-        switch (steps) {
-            case 0:
-                body += "<h2>" + secion.header + "</h2>";
-                break;
-            case 1:
-                body += "<h3>" + secion.header + "</h3>";
-                break;
-            default:
-                body += "<h6>" + secion.header + "</h6>";
-        }
-
-        // contents
-
-        for (let j = 0; j < secion.contents.length; j++) {
-            body += "<p>" + get_content_html(secion.contents[j]) + "</p>";
-        }
-
-        if (secion.subsections != undefined) body += get_section_html(secion.subsections, steps + 1);
-    }
-    body += "</div>";
-    return body;
-}
-
-
-
 function load_article(article_name) {
 
     // load json file
@@ -92,6 +14,7 @@ function load_article(article_name) {
     }).then(data => {
         console.log(data);
         let element_head = document.getElementById("article-head");
+        element_head.innerHTML = ""
 
         // title
 
@@ -108,14 +31,18 @@ function load_article(article_name) {
         // sections
 
         let element_section = document.getElementById("article-sections");
+        element_section.innerHTML = ""
         for (let i = 0; i < data.sections.length; i++) {
             element_section.appendChild(get_section_element(data.sections[i]));
         }
+
+        document.getElementById("article-timeline").innerHTML = "";
+        document.getElementById("article-seealso").innerHTML = "";
     }).catch(error => {
-        document.getElementById("article-head").innerHTML = "Failed to load article \"" + article_name + "\" :("
-        document.getElementById("article-sections").innerHTML = error
-        document.getElementById("article-timeline").innerHTML = ""
-        document.getElementById("article-seealso").innerHTML = "There is nothing to see"
+        document.getElementById("article-head").innerHTML = "Failed to load article \"" + article_name + "\" :(";
+        document.getElementById("article-sections").innerHTML = error;
+        document.getElementById("article-timeline").innerHTML = "";
+        document.getElementById("article-seealso").innerHTML = "There is nothing to see";
 
         // catch error
 

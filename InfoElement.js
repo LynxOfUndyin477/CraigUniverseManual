@@ -5,6 +5,7 @@
 
 function add_elements(root, data)
 {
+    if (data === undefined) return;
 
     // text
 
@@ -18,7 +19,7 @@ function add_elements(root, data)
     // list
     
     if (Array.isArray(data)) {
-        root.appendChild(get_list_element());
+        root.appendChild(get_list_element(data));
         return;
     }
 
@@ -27,7 +28,7 @@ function add_elements(root, data)
     if (typeof data === "object") switch (data.type) {
         case "section":
             root.appendChild(get_section_element(data));
-            break;
+            return;
         return;
     }
 }
@@ -50,8 +51,8 @@ function get_section_element(data)
 
     let element;
     let subdata;
-    for (let i = 0; i < data.content.length; i++) {
-        add_elements(element_div, data.content[i]);
+    for (let i = 0; i < data.contents.length; i++) {
+        add_elements(element_div, data.contents[i]);
     }
 
     // return
@@ -137,6 +138,7 @@ function get_text(data)
 
 function get_list_element(data)
 {
+    if (Array.isArray(data[0])) return get_table_element(data);
     let element_ul = document.createElement("ul");
     let element_li;
     for (let i = 0; i < data.length; i++) {
@@ -144,4 +146,26 @@ function get_list_element(data)
         add_elements(element_li, data[i]);
         element_ul.appendChild(element_li);
     }
+    return element_ul;
+}
+
+
+// ---------------------------------------------- Get Table Element
+
+
+function get_table_element(data)
+{
+    let element_table = document.createElement("table");
+    let element_tr;
+    let element_td;
+    for (let i = 0; i < data.length; i++) {
+        element_tr = document.createElement("tr");
+        element_table.appendChild(element_tr);
+        for (let j = 0; j < data[i].length; j++) {
+            element_td = document.createElement("td");
+            add_elements(element_td, data[i][j]);
+            element_tr.appendChild(element_td);
+        }
+    }
+    return element_table;
 }
