@@ -251,6 +251,10 @@
                         "Crilk-flavoured ice cream."
                     ],
                     [
+                        "{a=Product_NovasNoodleSoup}Methabiblical Wonderballs{/}", "", "April 2026",
+                        "Meat balls created with meth the flesh of seraphim."
+                    ],
+                    [
                         "{a=Product_LynxIcePop}Lynx Ice Pop{/}", "Lynx", "May 2026",
                         "A vanilla popsicle depicting Lynx."
                     ],
@@ -298,6 +302,10 @@
                     [
                         "{a=Product_StereoSalmon}Stereo Salmon{/}", "Billy Mays", "March 2026",
                         "A salmon that can play any music you ask it."
+                    ],
+                    [
+                        "{a=Product_AIRick}A.I. Rick{/}", "Rick", "April 2026",
+                        "An A.I. assistant designed to replicate {a=Person_Rick}Rick's{/} behaviour."
                     ]
                 ]
             ]
@@ -309,20 +317,28 @@
                 [
                     ["Name", "Creator", "Data", "Type", "Description"],
                     [
-                        "{a=Product_}{/}", "", "", "",
+                        "{a=Media_}{/}", "", "", "",
                         ""
                     ],
                     [
-                        "{a=Product_CraigTheCutieEgg2BeanieEdition}Craig The Cutie Egg 2: Beanie Edition{/}", "Craig", "", "Video Game (Meta Quest 2)",
+                        "{a=Media_CraigTheCutieEgg2BeanieEdition}Craig The Cutie Egg 2: Beanie Edition{/}", "Craig", "", "Video Game (Meta Quest 2)",
                         ""
                     ],
                     [
-                        "{a=Product_NovaFemboyAdventures}Nova Femboy Adventures{/}", "Nova", "March 2026", "Video Game (Nova Box 420)",
+                        "{a=Media_NovaFemboyAdventures}Nova Femboy Adventures{/}", "Nova", "March 2026", "Video Game (Nova Box 420)",
                         ""
                     ],
                     [
-                        "{a=Product_FiveNightsAtFemboys}Five Nights At Femboy's{/}", "Nova", "March 2026", "Video Game (Nova Box 420)",
+                        "{a=Media_FiveNightsAtFemboys}Five Nights At Femboy's{/}", "Nova", "March 2026", "Video Game (Nova Box 420)",
                         ""
+                    ],
+                    [
+                        "{a=Media_CraigDatingSim}Craig Dating Simulator{/}", "Craig", "April 2026", "Video Game (PC)",
+                        "A multiplayer VR game where you kill Jeffery Epstein and his accomplices on Epstein island."
+                    ],
+                    [
+                        "{a=Media_KillJeffery}Kill Jeffery{/}", "", "August 2026", "Video Game (VR)",
+                        "A multiplayer VR game where you kill Jeffery Epstein and his accomplices on Epstein island."
                     ]
                 ]
             ]
